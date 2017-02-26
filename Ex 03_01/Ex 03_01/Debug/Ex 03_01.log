@@ -1,0 +1,9 @@
+﻿  Source.cpp
+  Generating Code...
+  Compiling...
+  mypoint.cpp
+c:\users\sapko\documents\visual studio 2015\projects\ex 03_01\ex 03_01\mypoint.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\sapko\documents\visual studio 2015\projects\ex 03_01\ex 03_01\mypoint.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Ex 03_01.vcxproj -> C:\Users\sapko\Documents\Visual Studio 2015\Projects\Ex 03_01\Debug\Ex 03_01.exe
+  Ex 03_01.vcxproj -> C:\Users\sapko\Documents\Visual Studio 2015\Projects\Ex 03_01\Debug\Ex 03_01.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\sapko\documents\visual studio 2015\projects\ex 3.04\ex 3.04\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\sapko\documents\visual studio 2015\projects\ex 3.04\ex 3.04\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  Ex 3.04.vcxproj -> C:\Users\sapko\Documents\Visual Studio 2015\Projects\Ex 3.04\Debug\Ex 3.04.exe
+  Ex 3.04.vcxproj -> C:\Users\sapko\Documents\Visual Studio 2015\Projects\Ex 3.04\Debug\Ex 3.04.pdb (Full PDB)
